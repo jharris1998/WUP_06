@@ -95,3 +95,6 @@ the fisherXY test showed that all groups of races were statistically different f
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+the data in this branch showed that everything had a significant difference. When I ran the same test in the #2 branch with 3x less data and it showed that there is only a significant difference between black people and white.  
+
