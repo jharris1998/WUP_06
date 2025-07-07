@@ -47,7 +47,6 @@ If not, then whose view differs from whom??
 ```{r}
 barchartGC(~cappun + race,data=mydata)
 barchartGC(~race + cappun,data=mydata, type="percent")
-
 ```
 
 
