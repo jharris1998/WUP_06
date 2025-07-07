@@ -90,6 +90,7 @@ fisherXY(mydata$cappun,mydata$race)
 
 ## More data version
 
+the fisherXY showed that all groups of races were statistically different from each other. 
 
 # Discussion and Conclusion
 
