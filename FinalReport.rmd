@@ -60,6 +60,13 @@ based off the bar chart we can see that black people are against capital punishm
 
 
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+The majority of black people are oppose to capital punishment. On the flip side majority of white people and majority of other races are people in favor of capital punishment.
 
 ## Now with More data
 
